@@ -8,5 +8,6 @@ RENCANA PEMBUATAN
 ^desain studio
 
 - APLIKASI
+*responsive
 - WEB
 - PERSONAL BRANDING
