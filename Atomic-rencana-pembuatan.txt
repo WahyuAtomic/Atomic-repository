@@ -1,8 +1,14 @@
-RENCANA PEMBUATAN
+RENCANA KONTEN WPU
 
-- GAME
-* MEMBUAT GAME
-- MEMBUAT STUDIO GAME
-- APLIKASI
-- WEB
-- PERSONAL BRANDING
+- Javascript
+  *ES6
+  *Freamenetwork Javascript
+  ^ Angular
+  ^Vue
+  ^React
+- Struktur Data Dasar
+- PHP Frameworks
+  ^Laravel
+- Interview
+- Vlogs
+- Python
